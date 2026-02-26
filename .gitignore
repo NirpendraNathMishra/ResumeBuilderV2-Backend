@@ -1,0 +1,18 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables
+.env
+
+# Local PDF storage
+public/
+
+# Temp / debug files
+gen_cv.py
+traceback.txt
+*.log
